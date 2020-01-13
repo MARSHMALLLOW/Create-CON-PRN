@@ -1,6 +1,6 @@
 @echo off
 
 mkdir con\
-echo Your magical path has been created xD
+echo DONE!
 pause
 exit
